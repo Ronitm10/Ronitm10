@@ -58,3 +58,13 @@
 ## <div align="center">Connect with me</div>  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ronitm10)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronit-chougule/)
+
+##ABOUT
+
+As a results-driven Software Developer with a Master’s in Information Systems and over three years of industry experience, I excel in designing, developing, and maintaining robust and scalable backend systems for complex web applications. My expertise spans a variety of programming languages and technologies, including Java, C#, Python, JavaScript, and frameworks like Spring Boot and .NET Core.
+
+During my tenure at Cequence Security and Tripstack, I have successfully implemented high-performance services and microservices, significantly improving system efficiency and reducing processing times. Notable achievements include transforming T-Mobile's web API data processing, designing RESTful APIs with robust security measures, and engineering bot detection systems to enhance security across web, mobile, and API communications.
+
+My collaborative approach and effective communication skills enable me to work seamlessly with cross-functional teams, ensuring high-quality code delivery. Additionally, I am proficient in cloud technologies such as AWS and Azure, and I have a strong background in database management, including MySQL, PostgreSQL, and MongoDB.
+
+I am passionate about leveraging my technical expertise to drive innovation and efficiency, continuously seeking new challenges and full-time opportunities as a Software Engineer to grow in the software development field.
