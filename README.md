@@ -59,7 +59,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ronitm10)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronit-chougule/)
 
-##ABOUT
+## ABOUT
 
 As a results-driven Software Developer with a Master’s in Information Systems and over three years of industry experience, I excel in designing, developing, and maintaining robust and scalable backend systems for complex web applications. My expertise spans a variety of programming languages and technologies, including Java, C#, Python, JavaScript, and frameworks like Spring Boot and .NET Core.
 
@@ -68,3 +68,31 @@ During my tenure at Cequence Security and Tripstack, I have successfully impleme
 My collaborative approach and effective communication skills enable me to work seamlessly with cross-functional teams, ensuring high-quality code delivery. Additionally, I am proficient in cloud technologies such as AWS and Azure, and I have a strong background in database management, including MySQL, PostgreSQL, and MongoDB.
 
 I am passionate about leveraging my technical expertise to drive innovation and efficiency, continuously seeking new challenges and full-time opportunities as a Software Engineer to grow in the software development field.
+
+### Software Engineer InternSoftware Engineer Intern
+### Cequence Security · InternshipCequence Security · Internship
+### May 2022 - Dec 2022 · 8 mosMay 2022 to Dec 2022 · 8 mos
+### Sunnyvale, California, United States · Remote
+• Architected and implemented a high-performance Spring Boot service to calculate Apache Kafka consumer lag within the system, leveraging custom metrics to optimize Kubernetes scaling strategies and enhance service uptime
+• Transformed T-Mobile's web API data with Spring Boot microservices, cutting processing time from 20 to 8 hours, seamlessly integrating Kafka for enhanced data distribution, and incorporated data into Elasticsearch for metric tracking
+• Implemented REST APIs for a Java, Spring Boot, hibernate backend for ‘Sentinel’ dashboard, incorporating API versioning, and rate limiting, improving system reliability by 20%
+• Designed production-level RESTful APIs using Java, secured with OAuth, JWT, and Spring Security with role-based access control, hosted on EC2, handling over 1 million requests per month
+• Engineered bot activity detection systems to proactively mitigate malicious patterns across web, mobile, and API communications, enhancing security for diverse clientele
+
+
+### TripStack
+### Full-time · 3 yrs 1 month
+### Pune, Maharashtra, India · On-site
+### Software DeveloperSoftware Developer
+### Jun 2019 - Jun 2021 · 2 yrs 1 month
+• Designed and implemented microservices-based REST API solution in .NET Core for airline ticket reservation, achieving a 35% reduction in booking and search time with C#
+• Automated airline ticket refunds through the development of the "Refundair" web application using NodeJS & ReactJS, consolidating refund requests from multiple portals to enhance operational efficiency and reduce processing time 
+• Improved flight fare accuracy by leveraging AWS services for tracking and monitoring Spirit & Southwest fare changes, providing valuable insights for efficient fare caching, and saving manual time
+• Automated report generation with CRON jobs, storing reports in S3 to improve accessibility, utilized Elasticsearch to index and search 50k+ documents, achieving sub-second response times
+• Set up CI/CD pipelines reducing the deployment time by 30 minutes and automate anomaly detection email notification
+
+### Associate Software DeveloperAssociate Software Developer
+### Jun 2018 - May 2019 · 1 yr
+• Formulated a comprehensive schema for a SQL Server database enabling a collaborative setting for data research, analysis, visualization, and forecasting across the organization
+• Achieved 95% code coverage, reducing bugs with 250+ JUnit unit tests under a Test-Driven Development (TDD) framework, using SonarQube to address code smells, integrating Grafana dashboard for real-time monitoring
+• Participated in SDLC (Agile/Scrum), fixing bugs, writing RCA docs, & doing pair programming and code reviews to ensure timely delivery
