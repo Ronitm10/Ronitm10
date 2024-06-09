@@ -8,8 +8,10 @@
 
 - Reach out to me: **chougule.r@northeastern.edu**  
   
-<br/>  
+<br/>
+
 ## My Skill Set  
+
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
