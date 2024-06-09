@@ -69,6 +69,29 @@ My collaborative approach and effective communication skills enable me to work s
 
 I am passionate about leveraging my technical expertise to drive innovation and efficiency, continuously seeking new challenges and full-time opportunities as a Software Engineer to grow in the software development field.
 
+<br/>
+
+## EDUCATION
+
+<table><tr><td valign="top" width="33%">
+  
+### Northeastern University
+Master's degree, Information Technology
+Aug 2021 - Dec 2023
+Grade: 3.6
+
+</td><td valign="top" width="33%">
+
+### Pune Institute of Computer Technology
+Bachelor of Engineering - BE, Information Technology
+Jun 2014 - Jul 2018
+Grade: First Class with Distinction
+
+</td></tr></table>
+<br/>
+
+## WORK EXPERIENCE
+
 ### Software Engineer InternSoftware Engineer Intern
 ### Cequence Security · InternshipCequence Security · Internship
 ### May 2022 - Dec 2022 · 8 mosMay 2022 to Dec 2022 · 8 mos
@@ -83,7 +106,7 @@ I am passionate about leveraging my technical expertise to drive innovation and 
 ### TripStack
 ### Full-time · 3 yrs 1 month
 ### Pune, Maharashtra, India · On-site
-### Software DeveloperSoftware Developer
+### Software Developer
 ### Jun 2019 - Jun 2021 · 2 yrs 1 month
 • Designed and implemented microservices-based REST API solution in .NET Core for airline ticket reservation, achieving a 35% reduction in booking and search time with C#
 • Automated airline ticket refunds through the development of the "Refundair" web application using NodeJS & ReactJS, consolidating refund requests from multiple portals to enhance operational efficiency and reduce processing time 
@@ -91,8 +114,9 @@ I am passionate about leveraging my technical expertise to drive innovation and 
 • Automated report generation with CRON jobs, storing reports in S3 to improve accessibility, utilized Elasticsearch to index and search 50k+ documents, achieving sub-second response times
 • Set up CI/CD pipelines reducing the deployment time by 30 minutes and automate anomaly detection email notification
 
-### Associate Software DeveloperAssociate Software Developer
+### Associate Software Developer
 ### Jun 2018 - May 2019 · 1 yr
+### Pune, Maharashtra, India · On-site
 • Formulated a comprehensive schema for a SQL Server database enabling a collaborative setting for data research, analysis, visualization, and forecasting across the organization
 • Achieved 95% code coverage, reducing bugs with 250+ JUnit unit tests under a Test-Driven Development (TDD) framework, using SonarQube to address code smells, integrating Grafana dashboard for real-time monitoring
 • Participated in SDLC (Agile/Scrum), fixing bugs, writing RCA docs, & doing pair programming and code reviews to ensure timely delivery
