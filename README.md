@@ -96,10 +96,9 @@ Grade: First Class with Distinction
 ### Cequence Security · InternshipCequence Security · Internship
 ### May 2022 - Dec 2022 · 8 mosMay 2022 to Dec 2022 · 8 mos
 ### Sunnyvale, California, United States · Remote
-• Architected and implemented a high-performance Spring Boot service to calculate Apache Kafka consumer lag within the system, leveraging custom metrics to optimize Kubernetes scaling strategies and enhance service uptime
-• Transformed T-Mobile's web API data with Spring Boot microservices, cutting processing time from 20 to 8 hours, seamlessly integrating Kafka for enhanced data distribution, and incorporated data into Elasticsearch for metric tracking
-• Implemented REST APIs for a Java, Spring Boot, hibernate backend for ‘Sentinel’ dashboard, incorporating API versioning, and rate limiting, improving system reliability by 20%
-• Designed production-level RESTful APIs using Java, secured with OAuth, JWT, and Spring Security with role-based access control, hosted on EC2, handling over 1 million requests per month
+• Architected a high-performance Node.js microservice with Express.js to calculate Apache Kafka consumer lag within the system, utilizing custom metrics to dynamically manage the scaling of Kubernetes pods and improve service uptime
+• Transformed T-Mobile's web API data processing while enhancing data distribution with Kafka, slashing processing time from 20 to 8 hours, and implementing Elasticsearch for streamlined metric tracking
+• Built secure, high-performance Node.js REST APIs for various role-based dashboards with versioning, rate limiting, hosted on EC2, efficiently handling 1M+ monthly requests & boosting reliability by 20%
 • Engineered bot activity detection systems to proactively mitigate malicious patterns across web, mobile, and API communications, enhancing security for diverse clientele
 
 
