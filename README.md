@@ -1,12 +1,10 @@
 ## <div align="center">Ronit Chougule, a passionate Software Developer</div>  
   
-- I'm a **Software Engineering Graduate** from **Northeastern University**, Boston (August 2021 - December 2023)  
-  
-- Interested in **Software Developer · Back End Developer · Full-stack Developer · Site Reliability Engineer · Security Software Engineer**  
+- I'm a **Software Engineer at SS&C Intralinks** and a Gradute from **Northeastern University**, Boston (August 2021 - December 2023)    
   
 - Exploring and learning **DevOps, AWS Services**  
 
-- Reach out to me: **chougule.r@northeastern.edu**  
+- Reach out to me: **ronitchougule7@gmail.com**  
   
 <br/>
 
@@ -61,13 +59,10 @@
 
 ## ABOUT
 
-As a results-driven Software Developer with a Master’s in Information Systems and over three years of industry experience, I excel in designing, developing, and maintaining robust and scalable backend systems for complex web applications. My expertise spans a variety of programming languages and technologies, including Java, C#, Python, JavaScript, and frameworks like Spring Boot and .NET Core.
+Dynamic Software Engineer Specializing in Full-Stack Development with a Master’s in Information Systems from Northeastern University and over three years of professional work experience. Proven track record in designing, developing, and maintaining robust, scalable web applications and backend systems that drive business outcomes. Skilled in working with modern technologies to build efficient, high-performance solutions, leveraging both front-end and back-end expertise.
 
-During my tenure at Cequence Security and Tripstack, I have successfully implemented high-performance services and microservices, significantly improving system efficiency and reducing processing times. Notable achievements include transforming T-Mobile's web API data processing, designing RESTful APIs with robust security measures, and engineering bot detection systems to enhance security across web, mobile, and API communications.
+Adept at troubleshooting complex technical challenges and optimizing workflows, I bring a strong focus on clean code, scalability, and user-centric design. I thrive in collaborative environments, partnering with cross-functional teams to deliver high-quality software solutions on time and within scope. Passionate about continuous learning and staying updated with the latest industry trends and best practices. Always looking for opportunities to innovate and contribute to the success of the organizations I work with.
 
-My collaborative approach and effective communication skills enable me to work seamlessly with cross-functional teams, ensuring high-quality code delivery. Additionally, I am proficient in cloud technologies such as AWS and Azure, and I have a strong background in database management, including MySQL, PostgreSQL, and MongoDB.
-
-I am passionate about leveraging my technical expertise to drive innovation and efficiency, continuously seeking new challenges and full-time opportunities as a Software Engineer to grow in the software development field.
 
 <br/>
 
@@ -96,9 +91,9 @@ Grade: First Class with Distinction
 ### Cequence Security · InternshipCequence Security · Internship
 ### May 2022 - Dec 2022 · 8 mosMay 2022 to Dec 2022 · 8 mos
 ### Sunnyvale, California, United States · Remote
-• Architected a high-performance Spring Boot microservice with Java to calculate Apache Kafka consumer lag within the system, utilizing custom metrics to dynamically manage the scaling of Kubernetes pods and improve service uptime
+• Architected a high-performance Node.js microservice with Express.js to calculate Apache Kafka consumer lag within the system, utilizing custom metrics to dynamically manage the scaling of Kubernetes pods and improve service uptime
 • Transformed T-Mobile's web API data processing while enhancing data distribution with Kafka, slashing processing time from 20 to 8 hours, and implementing Elasticsearch for streamlined metric tracking
-• Built secure, high-performance Java REST APIs for various role-based dashboards with versioning, rate limiting, hosted on EC2, efficiently handling 1M+ monthly requests & boosting reliability by 20%
+• Built secure, high-performance Node.js REST APIs for various role-based dashboards with versioning, rate limiting, hosted on EC2, efficiently handling 1M+ monthly requests & boosting reliability by 20%
 • Engineered bot activity detection systems to proactively mitigate malicious patterns across web, mobile, and API communications, enhancing security for diverse clientele
 
 
@@ -107,11 +102,10 @@ Grade: First Class with Distinction
 ### Pune, Maharashtra, India · On-site
 ### Software Developer
 ### Jun 2019 - Jun 2021 · 2 yrs 1 month
-• Designed and implemented microservices-based REST API solution in .NET Core for airline ticket reservation, achieving a 35% reduction in booking and search time with C#
-• Automated airline ticket refunds through the development of the "Refundair" web application using NodeJS & ReactJS, consolidating refund requests from multiple portals to enhance operational efficiency and reduce processing time 
-• Improved flight fare accuracy by leveraging AWS services for tracking and monitoring Spirit & Southwest fare changes, providing valuable insights for efficient fare caching, and saving manual time
+• Developed a Node.js microservices setup, cutting booking and search times by 35%, and utilized AWS tools to enhance fare accuracy, driving a 40% efficiency boost and substantial savings
+• Automated airline ticket refunds through development of "Refundair" web application using NodeJS & ReactJS, consolidating refund requests from multiple portals to enhance operational efficiency and reduce processing time
 • Automated report generation with CRON jobs, storing reports in S3 to improve accessibility, utilized Elasticsearch to index and search 50k+ documents, achieving sub-second response times
-• Set up CI/CD pipelines reducing the deployment time by 30 minutes and automate anomaly detection email notification
+• Set up CI/CD pipelines reducing the deployment time by 30 min and automate anomaly detection email notification
 
 ### Associate Software Developer
 ### Jun 2018 - May 2019 · 1 yr
