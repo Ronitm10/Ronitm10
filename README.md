@@ -53,7 +53,7 @@
 </td></tr></table>  
 <br/>  
 
-## <div align="center">Connect with me</div>  
+## <div align="center">CONNECT</div>  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ronitm10)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronit-chougule/)
 
