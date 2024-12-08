@@ -1,6 +1,6 @@
 ## <div align="center">Ronit Chougule, a passionate Software Developer</div>  
   
-- I'm a **Software Engineer at SS&C Intralinks** and a Gradute from **Northeastern University**, Boston (August 2021 - December 2023)    
+- I'm a **Software Engineer at SS&C Intralinks** and a Graduate from **Northeastern University**, Boston (August 2021 - December 2023)    
   
 - Exploring and learning **DevOps, AWS Services**  
 
@@ -59,9 +59,11 @@
 
 ## ABOUT
 
-Dynamic Software Engineer Specializing in Full-Stack Development with a Master’s in Information Systems from Northeastern University and over three years of professional work experience. Proven track record in designing, developing, and maintaining robust, scalable web applications and backend systems that drive business outcomes. Skilled in working with modern technologies to build efficient, high-performance solutions, leveraging both front-end and back-end expertise.
+• Dynamic Software Engineer Specializing in Full-Stack Development with a Master’s in Information Systems from Northeastern University and over three years of professional work experience. Proven track record in designing, developing, and maintaining robust, scalable web applications and backend systems that drive business outcomes. Skilled in working with modern technologies to build efficient, high-performance solutions, leveraging both front-end and back-end expertise.
 
-Adept at troubleshooting complex technical challenges and optimizing workflows, I bring a strong focus on clean code, scalability, and user-centric design. I thrive in collaborative environments, partnering with cross-functional teams to deliver high-quality software solutions on time and within scope. Passionate about continuous learning and staying updated with the latest industry trends and best practices. Always looking for opportunities to innovate and contribute to the success of the organizations I work with.
+• Adept at troubleshooting complex technical challenges and optimizing workflows, I bring a strong focus on clean code, scalability, and user-centric design. I thrive in collaborative environments, partnering with cross-functional teams to deliver high-quality software solutions on time and within scope. 
+
+• Passionate about continuous learning and staying updated with the latest industry trends and best practices. Always looking for opportunities to innovate and contribute to the success of the organizations I work with.
 
 
 <br/>
@@ -85,9 +87,17 @@ Grade: First Class with Distinction
 </td></tr></table>
 <br/>
 
-## WORK EXPERIENCE
+## CURRENT WORK EXPERIENCE
 
-### Software Engineer InternSoftware Engineer Intern
+### Software Engineer
+### SS&C Intralinks
+### Full-time
+### Boston, MA, USA · Hybrid
+<br/>
+
+## PAST WORK EXPERIENCE
+
+### Software Engineer Intern
 ### Cequence Security · InternshipCequence Security · Internship
 ### May 2022 - Dec 2022 · 8 mosMay 2022 to Dec 2022 · 8 mos
 ### Sunnyvale, California, United States · Remote
@@ -96,11 +106,10 @@ Grade: First Class with Distinction
 • Built secure, high-performance Node.js REST APIs for various role-based dashboards with versioning, rate limiting, hosted on EC2, efficiently handling 1M+ monthly requests & boosting reliability by 20%
 • Engineered bot activity detection systems to proactively mitigate malicious patterns across web, mobile, and API communications, enhancing security for diverse clientele
 
-
+### Software Developer
 ### TripStack
 ### Full-time · 3 yrs 1 month
 ### Pune, Maharashtra, India · On-site
-### Software Developer
 ### Jun 2019 - Jun 2021 · 2 yrs 1 month
 • Developed a Node.js microservices setup, cutting booking and search times by 35%, and utilized AWS tools to enhance fare accuracy, driving a 40% efficiency boost and substantial savings
 • Automated airline ticket refunds through development of "Refundair" web application using NodeJS & ReactJS, consolidating refund requests from multiple portals to enhance operational efficiency and reduce processing time
@@ -108,6 +117,7 @@ Grade: First Class with Distinction
 • Set up CI/CD pipelines reducing the deployment time by 30 min and automate anomaly detection email notification
 
 ### Associate Software Developer
+### TripStack
 ### Jun 2018 - May 2019 · 1 yr
 ### Pune, Maharashtra, India · On-site
 • Formulated a comprehensive schema for a SQL Server database enabling a collaborative setting for data research, analysis, visualization, and forecasting across the organization
