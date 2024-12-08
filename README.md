@@ -59,12 +59,13 @@
 
 ## ABOUT
 
-• Dynamic Software Engineer Specializing in Full-Stack Development with a Master’s in Information Systems from Northeastern University and over three years of professional work experience. Proven track record in designing, developing, and maintaining robust, scalable web applications and backend systems that drive business outcomes. Skilled in working with modern technologies to build efficient, high-performance solutions, leveraging both front-end and back-end expertise.
+• Dynamic Software Engineer Specializing in Full-Stack Development with a Master’s in Information Systems from Northeastern University and over three years of professional work experience. Proven track record in designing, developing, and maintaining robust, scalable web applications and backend systems that drive business outcomes. 
+
+• Skilled in working with modern technologies to build efficient, high-performance solutions, leveraging both front-end and back-end expertise.
 
 • Adept at troubleshooting complex technical challenges and optimizing workflows, I bring a strong focus on clean code, scalability, and user-centric design. I thrive in collaborative environments, partnering with cross-functional teams to deliver high-quality software solutions on time and within scope. 
 
 • Passionate about continuous learning and staying updated with the latest industry trends and best practices. Always looking for opportunities to innovate and contribute to the success of the organizations I work with.
-
 
 <br/>
 
